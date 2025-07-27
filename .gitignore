@@ -204,3 +204,5 @@ __marimo__/
 
 
 test_db_connection.py
+.db
+alembic.log
