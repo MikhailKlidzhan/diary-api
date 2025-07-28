@@ -32,14 +32,14 @@ A RESTful API for managing diary entries, built with FastAPI, SQLAlchemy, and Po
 
 ```bash
 git clone https://github.com/MikhailKlidzhan/diary_api.git
-cd diary_api
+cd diary-api
 ```
 
 or
 
 ```bash
 git clone git@github.com:MikhailKlidzhan/diary_api.git
-cd diary_api
+cd diary-api
 ```
 
 2. Set up environment variables
