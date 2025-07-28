@@ -81,7 +81,7 @@ poetry run alembic upgrade head
 Start the FastAPI development server:
 
 ```bash
-uvicorn src.diary_api.main:app --reload
+poetry run uvicorn src.diary_api.main:app --reload
 ```
 
 The API will be available at `http://localhost:8000/`
