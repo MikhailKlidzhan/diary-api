@@ -35,6 +35,13 @@ git clone https://github.com/MikhailKlidzhan/diary_api.git
 cd diary_api
 ```
 
+or
+
+```bash
+git clone git@github.com:MikhailKlidzhan/diary_api.git
+cd diary_api
+```
+
 2. Set up environment variables
 
 - create .env in the project root directory
