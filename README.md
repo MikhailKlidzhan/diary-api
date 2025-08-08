@@ -31,14 +31,14 @@ A RESTful API for managing diary entries, built with FastAPI, SQLAlchemy, and Po
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/johniehuge/diary-api.git
+git clone https://github.com/MikhailKlidzhan/diary-api.git
 cd diary-api
 ```
 
 or
 
 ```bash
-git clone git@github.com:johniehuge/diary-api.git
+git clone git@github.com:MikhailKlidzhan/diary-api.git
 cd diary-api
 ```
 
