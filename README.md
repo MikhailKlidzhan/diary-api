@@ -53,7 +53,12 @@ cp .env.template .env
 - add your database credentials to .env
 
 ```text
-DB_URL=postgresql://username:password@localhost/diary_db
+DB_URL=your_db_url
+DB_USER=your_db_username
+DB_PASSWORD=your_db_password
+DB_HOST=your_db_host
+DB_PORT=your_db_port
+DB_NAME=your_db_name
 ```
 
 3. Install dependencies using Poetry
@@ -67,7 +72,7 @@ poetry install
 1. Create a database (ensure that PostgreSQL is running)
 
 ```bash
-createdb diary_db
+createdb your_db_name
 ```
 
 2. Run migrations

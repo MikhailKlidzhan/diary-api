@@ -1,7 +1,6 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from .database import Base
-from . import models
 
 # Test database URL - using SQLite in-memory for faster tests
 SQLALCHEMY_DATABASE_URL = "sqlite:///./test.db"
